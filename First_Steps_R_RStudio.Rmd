@@ -1,5 +1,5 @@
 ---
-title: 'Part 1: Getting Started'
+title: 'First Steps with R and RStudio'
 author: "Matt Steele"
 date: "`r Sys.Date()`"
 output:
